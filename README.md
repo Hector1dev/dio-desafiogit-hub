@@ -1,2 +1,2 @@
 # dio-desafiogit-hub
-Desafio de projéto Git/Github
+Desafio de projéto sobre Git/Github
